@@ -1,0 +1,37 @@
+{
+  "stack": [
+    "java",
+    "spring boot",
+    "typescript",
+    "postgresql",
+    "docker",
+    "aws",
+    "git"
+  ],
+  "badges": [
+    {
+      "id": "sa-pro",
+      "file": "sa-pro.png",
+      "line1": "solutions architect",
+      "line2": "professional"
+    },
+    {
+      "id": "genai-pro",
+      "file": "genai-pro.png",
+      "line1": "generative ai developer",
+      "line2": "professional"
+    },
+    {
+      "id": "sa-assoc",
+      "file": "sa-assoc.png",
+      "line1": "solutions architect",
+      "line2": "associate"
+    }
+  ],
+  "buttons": [
+    {
+      "id": "mail",
+      "label": "[ email ]"
+    }
+  ]
+}
